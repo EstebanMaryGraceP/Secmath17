@@ -1,0 +1,14 @@
+---
+title: "R for the data science (2e):Activity in secmath 17"
+author: "MaryGrace Esteban"
+format: html
+editor: visual
+---
+
+# INTRODUCTION
+
+## What will You Learn
+
+Review the pipeline because we will make it a part of our exam.
+
+![Pipeline](R4dspics/R4dspic1.png)
