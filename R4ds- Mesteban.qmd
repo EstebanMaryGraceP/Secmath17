@@ -15,7 +15,7 @@ Review the pipeline because we will make it a part of our exam.
 
 ## The tidyverse
 
-~To\ install\ the\ tidyverse\ package\ use\ the\ code:~
+~To install the tidyverse package use the code:~
 
 ~`install.packages("tidyverse").`~
 
